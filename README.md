@@ -1,2 +1,2 @@
 # Parcial-2_SyS
-Auto: Santiago Zambrano
+Autor: Santiago Zambrano
